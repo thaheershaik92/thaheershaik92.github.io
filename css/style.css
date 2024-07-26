@@ -9313,7 +9313,7 @@
   
   .block-20 {
     overflow: hidden;
-    background-size: auto;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
     position: relative;
