@@ -9320,6 +9320,13 @@
     display: block;
     width: 100%;
     height: 250px; }
+
+.block-20 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures image covers the block without distortion */
+    object-position: center center;
+}
   
   .blog-entry {
     position: relative; }
